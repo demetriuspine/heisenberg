@@ -1,8 +1,11 @@
+import { HashRouter } from "react-router-dom";
+import RouteWays from "./RouteWays";
+
 function App() {
   return (
-    <div className="App">
-      test
-    </div>
+    <HashRouter>
+      <RouteWays />
+    </HashRouter>
   );
 }
 
