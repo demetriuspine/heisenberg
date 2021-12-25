@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/heisenberg/static/js/main.09404945.js",
+    "main.js": "/heisenberg/static/js/main.fbd93ef2.js",
     "static/js/787.60f98c7d.chunk.js": "/heisenberg/static/js/787.60f98c7d.chunk.js",
     "index.html": "/heisenberg/index.html",
-    "main.09404945.js.map": "/heisenberg/static/js/main.09404945.js.map",
+    "main.fbd93ef2.js.map": "/heisenberg/static/js/main.fbd93ef2.js.map",
     "787.60f98c7d.chunk.js.map": "/heisenberg/static/js/787.60f98c7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.09404945.js"
+    "static/js/main.fbd93ef2.js"
   ]
 }
